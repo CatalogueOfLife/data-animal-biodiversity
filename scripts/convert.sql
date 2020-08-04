@@ -24,21 +24,21 @@ CREATE TABLE `Name` (
 
 DROP TABLE IF EXISTS `Taxon`;
 CREATE TABLE `Taxon` (
-    SELECT DISTINCT `Order` AS nameID,
+    SELECT DISTINCT `Order` AS ID,
                     NULL AS parentID,
-                    `Order` AS taxonID,
+                    `Order` AS nameID,
                     NULL    AS extinct
     FROM `data-animal-biodiversity`.`raw` WHERE Family IS NOT NULL
     UNION
-    SELECT DISTINCT CONCAT_WS('-', `Order`, `Superfamily`) AS nameID,
+    SELECT DISTINCT CONCAT_WS('-', `Order`, `Superfamily`) AS ID,
                     `Order` AS parentID,
-                    CONCAT_WS('-', `Order`, `Superfamily`) AS taxonID,
+                    CONCAT_WS('-', `Order`, `Superfamily`) AS nameID,
                     NULL    AS extinct
     FROM `data-animal-biodiversity`.`raw` WHERE Superfamily IS NOT NULL
     UNION
-    SELECT DISTINCT CONCAT_WS('-', `Order`, `Superfamily`, `Family`) AS nameID,
+    SELECT DISTINCT CONCAT_WS('-', `Order`, `Superfamily`, `Family`) AS ID,
                     CONCAT_WS('-', `Order`, `Superfamily`)           AS parentID,
-                    CONCAT_WS('-', `Order`, `Superfamily`, `Family`) AS taxonID,
+                    CONCAT_WS('-', `Order`, `Superfamily`, `Family`) AS nameID,
                     Extinct                                          AS extinct
     FROM `data-animal-biodiversity`.`raw` WHERE Family IS NOT NULL
 );
