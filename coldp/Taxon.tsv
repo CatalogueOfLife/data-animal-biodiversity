@@ -1,5 +1,6 @@
-ID	parentID	nameID	extinct
+nameID	parentID	taxonID	extinct
 Coleoptera		Coleoptera	
+Hymenoptera		Hymenoptera	
 Coleoptera-Bostrichoidea	Coleoptera	Coleoptera-Bostrichoidea	
 Coleoptera-Chrysomeloidea	Coleoptera	Coleoptera-Chrysomeloidea	
 Coleoptera-Cleroidea	Coleoptera	Coleoptera-Cleroidea	
@@ -13,6 +14,16 @@ Coleoptera-Schizophoroidea	Coleoptera	Coleoptera-Schizophoroidea
 Coleoptera-Scirtoidea	Coleoptera	Coleoptera-Scirtoidea	
 Coleoptera-Sphaeriusoidea	Coleoptera	Coleoptera-Sphaeriusoidea	
 Coleoptera-Tenebrionoidea	Coleoptera	Coleoptera-Tenebrionoidea	
+Hymenoptera-Pamphilioidea	Hymenoptera	Hymenoptera-Pamphilioidea	
+Hymenoptera-Tenthredinoidea	Hymenoptera	Hymenoptera-Tenthredinoidea	
+Hymenoptera-Trigonaloidea	Hymenoptera	Hymenoptera-Trigonaloidea	
+Hymenoptera-Megalyroidea	Hymenoptera	Hymenoptera-Megalyroidea	
+Hymenoptera-Stephanoidea	Hymenoptera	Hymenoptera-Stephanoidea	
+Hymenoptera-Proctotrupoidea	Hymenoptera	Hymenoptera-Proctotrupoidea	
+Hymenoptera-Diaprioidea	Hymenoptera	Hymenoptera-Diaprioidea	
+Hymenoptera-Cynipoidea	Hymenoptera	Hymenoptera-Cynipoidea	
+Hymenoptera-Chrysidoidea	Hymenoptera	Hymenoptera-Chrysidoidea	
+Hymenoptera-Vespoidea	Hymenoptera	Hymenoptera-Vespoidea	
 Coleoptera-Bostrichoidea-Endecatomidae	Coleoptera-Bostrichoidea	Coleoptera-Bostrichoidea-Endecatomidae	0
 Coleoptera-Chrysomeloidea-Disteniidae	Coleoptera-Chrysomeloidea	Coleoptera-Chrysomeloidea-Disteniidae	0
 Coleoptera-Chrysomeloidea-Oxypeltidae	Coleoptera-Chrysomeloidea	Coleoptera-Chrysomeloidea-Oxypeltidae	0
@@ -67,3 +78,21 @@ Coleoptera-Parahygrobiidae	Coleoptera	Coleoptera-Parahygrobiidae	1
 Coleoptera-Rhysodidae	Coleoptera	Coleoptera-Rhysodidae	0
 Coleoptera-Triaplidae	Coleoptera	Coleoptera-Triaplidae	1
 Coleoptera-Tritarsusidae	Coleoptera	Coleoptera-Tritarsusidae	1
+Hymenoptera-Pamphilioidea-Megalodontesidae	Hymenoptera-Pamphilioidea	Hymenoptera-Pamphilioidea-Megalodontesidae	0
+Hymenoptera-Tenthredinoidea-Blasticotomidae	Hymenoptera-Tenthredinoidea	Hymenoptera-Tenthredinoidea-Blasticotomidae	0
+Hymenoptera-Trigonaloidea-Trigonalidae	Hymenoptera-Trigonaloidea	Hymenoptera-Trigonaloidea-Trigonalidae	0
+Hymenoptera-Megalyroidea-Megalyridae	Hymenoptera-Megalyroidea	Hymenoptera-Megalyroidea-Megalyridae	0
+Hymenoptera-Stephanoidea-Stephanidae	Hymenoptera-Stephanoidea	Hymenoptera-Stephanoidea-Stephanidae	0
+Hymenoptera-Proctotrupoidea-Austroniidae	Hymenoptera-Proctotrupoidea	Hymenoptera-Proctotrupoidea-Austroniidae	0
+Hymenoptera-Proctotrupoidea-Peradeniidae	Hymenoptera-Proctotrupoidea	Hymenoptera-Proctotrupoidea-Peradeniidae	0
+Hymenoptera-Proctotrupoidea-Proctorenyxidae	Hymenoptera-Proctotrupoidea	Hymenoptera-Proctotrupoidea-Proctorenyxidae	0
+Hymenoptera-Proctotrupoidea-Roproniidae	Hymenoptera-Proctotrupoidea	Hymenoptera-Proctotrupoidea-Roproniidae	0
+Hymenoptera-Diaprioidea-Ismaridae	Hymenoptera-Diaprioidea	Hymenoptera-Diaprioidea-Ismaridae	0
+Hymenoptera-Diaprioidea-Monomachidae	Hymenoptera-Diaprioidea	Hymenoptera-Diaprioidea-Monomachidae	0
+Hymenoptera-Cynipoidea-Austrocynipidae	Hymenoptera-Cynipoidea	Hymenoptera-Cynipoidea-Austrocynipidae	0
+Hymenoptera-Cynipoidea-Liopteridae	Hymenoptera-Cynipoidea	Hymenoptera-Cynipoidea-Liopteridae	0
+Hymenoptera-Chrysidoidea-Plumariidae	Hymenoptera-Chrysidoidea	Hymenoptera-Chrysidoidea-Plumariidae	0
+Hymenoptera-Chrysidoidea-Scolebythidae	Hymenoptera-Chrysidoidea	Hymenoptera-Chrysidoidea-Scolebythidae	0
+Hymenoptera-Vespoidea-Bradynobaenidae	Hymenoptera-Vespoidea	Hymenoptera-Vespoidea-Bradynobaenidae	0
+Hymenoptera-Vespoidea-Sapygidae	Hymenoptera-Vespoidea	Hymenoptera-Vespoidea-Sapygidae	0
+Hymenoptera-Vespoidea-Sierolomorphidae	Hymenoptera-Vespoidea	Hymenoptera-Vespoidea-Sierolomorphidae	0
