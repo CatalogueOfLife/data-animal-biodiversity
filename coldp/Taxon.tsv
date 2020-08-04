@@ -1,0 +1,69 @@
+nameID	parentID	taxonID	extinct
+Coleoptera		Coleoptera	
+Coleoptera-Bostrichoidea	Coleoptera	Coleoptera-Bostrichoidea	
+Coleoptera-Chrysomeloidea	Coleoptera	Coleoptera-Chrysomeloidea	
+Coleoptera-Cleroidea	Coleoptera	Coleoptera-Cleroidea	
+Coleoptera-Cucujoidea	Coleoptera	Coleoptera-Cucujoidea	
+Coleoptera-Curculionoidea	Coleoptera	Coleoptera-Curculionoidea	
+Coleoptera-Elateroidea	Coleoptera	Coleoptera-Elateroidea	
+Coleoptera-Hydrophiloidea	Coleoptera	Coleoptera-Hydrophiloidea	
+Coleoptera-Lepiceroidea	Coleoptera	Coleoptera-Lepiceroidea	
+Coleoptera-Scarabaeoidea	Coleoptera	Coleoptera-Scarabaeoidea	
+Coleoptera-Schizophoroidea	Coleoptera	Coleoptera-Schizophoroidea	
+Coleoptera-Scirtoidea	Coleoptera	Coleoptera-Scirtoidea	
+Coleoptera-Sphaeriusoidea	Coleoptera	Coleoptera-Sphaeriusoidea	
+Coleoptera-Tenebrionoidea	Coleoptera	Coleoptera-Tenebrionoidea	
+Coleoptera-Bostrichoidea-Endecatomidae	Coleoptera-Bostrichoidea	Coleoptera-Bostrichoidea-Endecatomidae	0
+Coleoptera-Chrysomeloidea-Disteniidae	Coleoptera-Chrysomeloidea	Coleoptera-Chrysomeloidea-Disteniidae	0
+Coleoptera-Chrysomeloidea-Oxypeltidae	Coleoptera-Chrysomeloidea	Coleoptera-Chrysomeloidea-Oxypeltidae	0
+Coleoptera-Chrysomeloidea-Vesperidae	Coleoptera-Chrysomeloidea	Coleoptera-Chrysomeloidea-Vesperidae	0
+Coleoptera-Cleroidea-Parandrexidae	Coleoptera-Cleroidea	Coleoptera-Cleroidea-Parandrexidae	1
+Coleoptera-Cucujoidea-Agapythidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Agapythidae	0
+Coleoptera-Cucujoidea-Akalyptoischiidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Akalyptoischiidae	0
+Coleoptera-Cucujoidea-Alexiidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Alexiidae	0
+Coleoptera-Cucujoidea-Boganiidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Boganiidae	0
+Coleoptera-Cucujoidea-Cavognathidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Cavognathidae	0
+Coleoptera-Cucujoidea-Cyclaxyridae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Cyclaxyridae	0
+Coleoptera-Cucujoidea-Helotidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Helotidae	0
+Coleoptera-Cucujoidea-Hobartiidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Hobartiidae	0
+Coleoptera-Cucujoidea-Lamingtoniidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Lamingtoniidae	0
+Coleoptera-Cucujoidea-Myraboliidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Myraboliidae	0
+Coleoptera-Cucujoidea-Phloeostichidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Phloeostichidae	0
+Coleoptera-Cucujoidea-Priasilphidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Priasilphidae	0
+Coleoptera-Cucujoidea-Propalticidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Propalticidae	0
+Coleoptera-Cucujoidea-Protocucujidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Protocucujidae	0
+Coleoptera-Cucujoidea-Sinisilvanidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Sinisilvanidae	1
+Coleoptera-Cucujoidea-Tasmosalpingidae	Coleoptera-Cucujoidea	Coleoptera-Cucujoidea-Tasmosalpingidae	0
+Coleoptera-Curculionoidea-Ulyanidae	Coleoptera-Curculionoidea	Coleoptera-Curculionoidea-Ulyanidae	1
+Coleoptera-Elateroidea-Berendtimiridae	Coleoptera-Elateroidea	Coleoptera-Elateroidea-Berendtimiridae	1
+Coleoptera-Elateroidea-Drilidae	Coleoptera-Elateroidea	Coleoptera-Elateroidea-Drilidae	0
+Coleoptera-Elateroidea-Lasiosynidae	Coleoptera-Elateroidea	Coleoptera-Elateroidea-Lasiosynidae	1
+Coleoptera-Elateroidea-Omalisidae	Coleoptera-Elateroidea	Coleoptera-Elateroidea-Omalisidae	0
+Coleoptera-Elateroidea-Plastoceridae	Coleoptera-Elateroidea	Coleoptera-Elateroidea-Plastoceridae	0
+Coleoptera-Elateroidea-Podabrocephalidae	Coleoptera-Elateroidea	Coleoptera-Elateroidea-Podabrocephalidae	0
+Coleoptera-Elateroidea-Rhinorhipidae	Coleoptera-Elateroidea	Coleoptera-Elateroidea-Rhinorhipidae	0
+Coleoptera-Hydrophiloidea-Synteliidae	Coleoptera-Hydrophiloidea	Coleoptera-Hydrophiloidea-Synteliidae	0
+Coleoptera-Lepiceroidea-Lepiceridae	Coleoptera-Lepiceroidea	Coleoptera-Lepiceroidea-Lepiceridae	0
+Coleoptera-Scarabaeoidea-Coprinisphaeridae	Coleoptera-Scarabaeoidea	Coleoptera-Scarabaeoidea-Coprinisphaeridae	1
+Coleoptera-Scarabaeoidea-Pallichnidae	Coleoptera-Scarabaeoidea	Coleoptera-Scarabaeoidea-Pallichnidae	1
+Coleoptera-Schizophoroidea-Schizocoleidae	Coleoptera-Schizophoroidea	Coleoptera-Schizophoroidea-Schizocoleidae	1
+Coleoptera-Scirtoidea-Decliniidae	Coleoptera-Scirtoidea	Coleoptera-Scirtoidea-Decliniidae	0
+Coleoptera-Scirtoidea-Elodophthalmidae	Coleoptera-Scirtoidea	Coleoptera-Scirtoidea-Elodophthalmidae	1
+Coleoptera-Scirtoidea-Mesocinetidae	Coleoptera-Scirtoidea	Coleoptera-Scirtoidea-Mesocinetidae	1
+Coleoptera-Sphaeriusoidea-Torridincolidae	Coleoptera-Sphaeriusoidea	Coleoptera-Sphaeriusoidea-Torridincolidae	0
+Coleoptera-Tenebrionoidea-Chalcodryidae	Coleoptera-Tenebrionoidea	Coleoptera-Tenebrionoidea-Chalcodryidae	0
+Coleoptera-Tenebrionoidea-Promecheilidae	Coleoptera-Tenebrionoidea	Coleoptera-Tenebrionoidea-Promecheilidae	0
+Coleoptera-Tenebrionoidea-Pterogeniidae	Coleoptera-Tenebrionoidea	Coleoptera-Tenebrionoidea-Pterogeniidae	0
+Coleoptera-Tenebrionoidea-Trachelostenidae	Coleoptera-Tenebrionoidea	Coleoptera-Tenebrionoidea-Trachelostenidae	0
+Coleoptera-Tenebrionoidea-Trictenotomidae	Coleoptera-Tenebrionoidea	Coleoptera-Tenebrionoidea-Trictenotomidae	0
+Coleoptera-Tenebrionoidea-Ulodidae	Coleoptera-Tenebrionoidea	Coleoptera-Tenebrionoidea-Ulodidae	0
+Coleoptera-Aspidytidae	Coleoptera	Coleoptera-Aspidytidae	0
+Coleoptera-Colymbotethidae	Coleoptera	Coleoptera-Colymbotethidae	1
+Coleoptera-Coptoclavidae	Coleoptera	Coleoptera-Coptoclavidae	1
+Coleoptera-Hygrobiidae	Coleoptera	Coleoptera-Hygrobiidae	0
+Coleoptera-Liadytidae	Coleoptera	Coleoptera-Liadytidae	1
+Coleoptera-Meruidae	Coleoptera	Coleoptera-Meruidae	0
+Coleoptera-Parahygrobiidae	Coleoptera	Coleoptera-Parahygrobiidae	1
+Coleoptera-Rhysodidae	Coleoptera	Coleoptera-Rhysodidae	0
+Coleoptera-Triaplidae	Coleoptera	Coleoptera-Triaplidae	1
+Coleoptera-Tritarsusidae	Coleoptera	Coleoptera-Tritarsusidae	1
