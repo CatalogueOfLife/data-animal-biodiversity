@@ -3,15 +3,16 @@ CREATE TABLE `Name` (
     SELECT * FROM (
     SELECT DISTINCT `Order` AS ID,
                     `Order` AS scientificName,
-                    "order" AS `rank`, `Order` AS uninomial,
-                    NULL    AS authorship
+                    NULL    AS authorship,
+                    "order" AS `rank`,
+                    `Order` AS uninomial
     FROM `data-animal-biodiversity`.`raw`
     UNION
     SELECT DISTINCT CONCAT_WS('-', `Order`, `Superfamily`) AS ID,
                     `Superfamily`                          AS scientificName,
+                    NULL                                   AS authorship,
                     "superfamily"                          AS `rank`,
-                    `superfamily`                          AS uninomial,
-                    NULL                                   AS authorship
+                    `superfamily`                          AS uninomial
     FROM `data-animal-biodiversity`.`raw`
     UNION
     SELECT DISTINCT CONCAT_WS('-', `Order`, `Superfamily`, `Family`) AS ID,
